@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0ncloud9
 - 👀 I’m interested in web & IoT contents
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on raspberry pi prj
+- 💞️ I’m looking to collaborate on starup service launching
 - 📫 How to reach me //** e-mail: seankangster@gmail.com **//
 
 <!---

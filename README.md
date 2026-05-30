@@ -4,9 +4,9 @@
 
 I build practical tools for construction and environmental engineering work: calculators, analysis workflows, data-input interfaces, and review systems that replace repetitive manual work with maintainable web products.
 
-[![Blog](https://img.shields.io/badge/Blog-supakang.github.io-111111?style=flat-square&logo=githubpages&logoColor=white)](https://supakang.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-SupaKang-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/SupaKang)
-[![Email](https://img.shields.io/badge/Email-seankangster%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:seankangster@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-supakang.github.io-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://supakang.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-SupaKang-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SupaKang)
+[![Email](https://img.shields.io/badge/Email-seankangster%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seankangster@gmail.com)
 
 ---
 
